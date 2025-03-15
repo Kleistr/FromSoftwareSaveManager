@@ -2,16 +2,19 @@
 
 一個基於 PyQt6 的存檔管理工具，專門用於管理 FromSoftware 遊戲的存檔文件。
 
+![eldenring_screenshot](screenShot/screenshot_er.png)
+![darksouls3_screenshot](screenShot/screenshot_ds3.png)
+![sekiro_screenshot](screenShot/screenshot_sk.png)
+
 ## 功能特性
 
 - 直觀的圖形用戶界面 (GUI)
 - 備份和恢復遊戲存檔
-- 自動檢測存檔位置
+- 自動檢測遊戲存檔位置
 - 支持多個存檔版本管理
 - 自定義備份名稱和描述
 - 快速切換不同存檔
 - 支持刪除舊備份
-- 暗黑主題支持
 
 ## 系統需求
 
