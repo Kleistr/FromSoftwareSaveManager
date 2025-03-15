@@ -1,6 +1,6 @@
 # FromSoftwareSaveManager
 
-一個基於 PyQt6 的存檔管理工具，專門用於管理 FromSoftware 遊戲的存檔文件。
+一个基于 PyQt6 的存档管理工具，专门用于管理 FromSoftware 游戏的存档文件。
 
 ![eldenring_screenshot](screenShot/screenshot_er.png)
 ![darksouls3_screenshot](screenShot/screenshot_ds3.png)
@@ -8,43 +8,43 @@
 
 ## 功能特性
 
-- 直觀的圖形用戶界面 (GUI)
-- 備份和恢復遊戲存檔
-- 自動檢測遊戲存檔位置
-- 支持多個存檔版本管理
-- 自定義備份名稱和描述
-- 快速切換不同存檔
-- 支持刪除舊備份
+- 直观的图形用户界面 (GUI)
+- 备份和恢复游戏存档
+- 自动检测游戏存档位置
+- 支持多个存档版本管理
+- 自定义备份名称和描述
+- 快速切换不同存档
+- 支持删除旧备份
 
-## 系統需求
+## 系统需求
 
 - Python 3.8 或更高版本
 - PyQt6
 - qt_material
 
-## 安裝步驟
+## 安装步骤
 
-1. 克隆本倉庫：
+1. 克隆本仓库：
    ```bash
    git clone https://github.com/yourusername/FromSoftwareSaveManager.git
    ```
-2. 安裝依賴：
+2. 安装依赖：
 
     ```bash
     pip install -r requirements.txt
     ```
 
 ## 使用方法
-1. 運行程序：
+1. 运行程序：
 
     ```bash
     python saveManager.py
     ```
-2. 主界面將顯示當前存檔信息和備份列表
+2. 主界面将显示当前存档信息和备份列表
 
-3. 使用按鈕進行操作：
+3. 使用按钮进行操作：
 
-- "備份"：創建當前存檔的備份
-- "恢復"：選擇並恢復備份
-- "刪除"：刪除選中的備份
-- "設置"：配置存檔路徑和其他選項
+- "备份"：创建当前存档的备份
+- "恢复"：选择并恢复备份
+- "删除"：删除选中的备份
+- "设置"：配置存档路径和其他选項
