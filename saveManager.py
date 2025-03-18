@@ -480,7 +480,7 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     # 应用主题样式并指定字体
     extra = {
-        'font_family': "MiSans Semibold",
+        'font_family': "微软雅黑",
         'danger': '#dc3545',
         'warning': '#ffc107',
         'success': '#17a2b8'
