@@ -1,10 +1,14 @@
 {
-    "游戏名称1": {
-        "save_dir": "存档目录路径",
-        "save_ext": "存档文件后缀"
+    "\u7a7a\u6d1e\u9a91\u58eb": {
+        "save_dir": "C:\\Users\\\u7528\u6237\u540d\\AppData\\LocalLow\\Team Cherry\\Hollow Knight",
+        "save_ext": ".dat"
     },
-    "游戏名称2": {
-        "save_dir": "存档目录路径",
-        "save_ext": "存档文件后缀"
+    "Hades": {
+        "save_dir": "C:\\Users\\\u7528\u6237\u540d\\Documents\\Saved Games\\Hades",
+        "save_ext": ".sav"
+    },
+    "Hades II": {
+        "save_dir": "C:\\Users\\\u7528\u6237\u540d\\Documents\\Saved Games\\Hades",
+        "save_ext": ".sav"
     }
 }
