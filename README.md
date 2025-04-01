@@ -1,14 +1,20 @@
 # FromSoftwareSaveManager
 
-
 一个基于 PyQt6 的存档管理工具，专门用于管理 FromSoftware 游戏的存档文件。（目前也在适配其他有在玩的游戏）
+
+
+<div align="center">
+
+![FromSoftwareSaveManager](screenShot/elden.png)
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+</div>
 
 ![eldenring_screenshot](screenShot/screenshot_er.png)
 ![darksouls3_screenshot](screenShot/screenshot_ds3.png)
 ![addOtherGames_screenshot](screenShot/screenshot_addothergames.png)
+
 
 ## 功能特性
 

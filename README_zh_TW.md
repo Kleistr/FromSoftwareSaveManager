@@ -3,8 +3,13 @@
 
 一個基於 PyQt6 的存檔管理工具，專門用於管理 FromSoftware 遊戲的存檔檔案。（目前也在適配其他有在玩的遊戲）
 
+<div align="center">
+
+![FromSoftwareSaveManager](screenShot/elden.png)
+
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+</div>
 
 ![eldenring_screenshot](screenShot/screenshot_er.png)
 ![darksouls3_screenshot](screenShot/screenshot_ds3.png)
